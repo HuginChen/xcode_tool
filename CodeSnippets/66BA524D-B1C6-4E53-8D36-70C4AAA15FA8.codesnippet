@@ -3,19 +3,19 @@
 <plist version="1.0">
 <dict>
 	<key>IDECodeSnippetCompletionPrefix</key>
-	<string>mark</string>
+	<string>currentThread</string>
 	<key>IDECodeSnippetCompletionScopes</key>
 	<array>
-		<string>ClassImplementation</string>
+		<string>CodeBlock</string>
 	</array>
 	<key>IDECodeSnippetContents</key>
-	<string>#pragma mark - </string>
+	<string>NSLog(@"%@", [NSThread currentThread]);</string>
 	<key>IDECodeSnippetIdentifier</key>
-	<string>52CD7968-5211-4270-BA8A-1A6C0D46AC21</string>
+	<string>66BA524D-B1C6-4E53-8D36-70C4AAA15FA8</string>
 	<key>IDECodeSnippetLanguage</key>
 	<string>Xcode.SourceCodeLanguage.Objective-C</string>
 	<key>IDECodeSnippetTitle</key>
-	<string>mark</string>
+	<string>currentThread</string>
 	<key>IDECodeSnippetUserSnippet</key>
 	<true/>
 	<key>IDECodeSnippetVersion</key>
